@@ -1,0 +1,18 @@
+[
+    {
+        "id_person": "APT001",
+        "nama": "Rina Marlina",
+        "alamat": "Jl. Melati 1",
+        "telepon": "081234567890",
+        "nomor_sip": "SIP-APT-001",
+        "shift": "Pagi"
+    },
+    {
+        "id_person": "APT002",
+        "nama": "Budi Santoso",
+        "alamat": "Jl. Mawar 2",
+        "telepon": "081222333444",
+        "nomor_sip": "SIP-APT-002",
+        "shift": "Sore"
+    }
+]

@@ -1,0 +1,4 @@
+# Program utama hanya memakai library bawaan Python.
+# Dependensi berikut hanya diperlukan jika ingin membuat ulang PDF dan PPTX.
+reportlab
+python-pptx

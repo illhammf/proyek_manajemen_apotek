@@ -1,0 +1,16 @@
+[
+    {
+        "id_person": "PLG001",
+        "nama": "Andi Saputra",
+        "alamat": "Jl. Kenanga 3",
+        "telepon": "082111223344",
+        "status_member": true
+    },
+    {
+        "id_person": "PLG002",
+        "nama": "Siti Aminah",
+        "alamat": "Jl. Anggrek 4",
+        "telepon": "085555667788",
+        "status_member": false
+    }
+]

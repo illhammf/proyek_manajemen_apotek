@@ -1,0 +1,29 @@
+[
+    {
+        "tipe": "ObatBebas",
+        "kode_obat": "OBT001",
+        "nama": "Paracetamol 500mg",
+        "kategori": "Analgesik",
+        "harga": 6000.0,
+        "stok": 50,
+        "expired": "2027-12-31"
+    },
+    {
+        "tipe": "ObatBebas",
+        "kode_obat": "OBT002",
+        "nama": "Vitamin C",
+        "kategori": "Suplemen",
+        "harga": 12000.0,
+        "stok": 35,
+        "expired": "2027-06-30"
+    },
+    {
+        "tipe": "ObatResep",
+        "kode_obat": "OBT003",
+        "nama": "Amoxicillin 500mg",
+        "kategori": "Antibiotik",
+        "harga": 18000.0,
+        "stok": 40,
+        "expired": "2027-03-31"
+    }
+]
