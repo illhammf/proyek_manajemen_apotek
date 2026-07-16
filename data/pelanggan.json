@@ -12,5 +12,12 @@
         "alamat": "Jl. Anggrek 4",
         "telepon": "085555667788",
         "status_member": false
+    },
+    {
+        "id_person": "001",
+        "nama": "Ilham Firmansyah",
+        "alamat": "Kp Kadu Jaya",
+        "telepon": "0895336900466",
+        "status_member": true
     }
 ]
